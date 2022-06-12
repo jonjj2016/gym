@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { Stack } from '@mui/material'
 
 const Navbar = () => {
-  return <div>Navbar</div>
+  return <div> </div>
 }
 
 export default Navbar
